@@ -1,0 +1,4 @@
+1. router gigabite 0/1  ko firewall 0/0 se aur firewall 0/1 ko switch gigabitethernet1 0/1 se mene connect kr dia using copper straight through
+
+Router (GE0/0/1) → Firewall (E0/0)
+Firewall (E0/1) → Core Switch (GE1/0/1)
